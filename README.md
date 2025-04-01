@@ -1,5 +1,9 @@
 # Customer-Churn-Analysis-Project
 
+## Live Demo
+[View the Dashboard]([https://your-live-project-url.com](https://app.powerbi.com/view?r=eyJrIjoiMmIzYmJiNDQtNzBlMC00YWE0LWFhOGMtNzYzOTQxYzcwNjhmIiwidCI6ImIyOWMyYzJjLTJiYWUtNDQzMy1iMmQzLTgyNDM1ZGY3YmFlZCJ9&pageName=b3053b0f9fbc6471899b))
+
+
 
 # **Sales Analysis Using Power BI**  
 
